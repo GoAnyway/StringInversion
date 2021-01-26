@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MainLogic">
+      <UniqueIdentifier>{a03b481b-c9b2-4695-9267-2ce5b60cfc6a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StringInversion.h">
+      <Filter>MainLogic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StringInversion.cpp">
+      <Filter>MainLogic</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
